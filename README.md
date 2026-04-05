@@ -71,15 +71,15 @@ Esto es consistente con la literatura: HRP mejora la estabilidad out-of-sample a
 ### Stage 1 — Dendrograma
 
 
-![Dendrograma](results/hrp_dendrogram.png)
+![Dendrograma](Results/hrp_dendrogram.png)
 
 ---
 
 ### Stage 2 — Correlación
 
-[`Ver heatmap`](results/hrp_heatmaps.html)
+[`Ver heatmap`](Results/hrp_heatmaps.html)
 
-![Heatmaps](results/hrp_heatmaps_screenshot.png)
+![Heatmaps](Results/hrp_heatmaps_screenshot.png)
 
 ---
 
@@ -87,15 +87,15 @@ Esto es consistente con la literatura: HRP mejora la estabilidad out-of-sample a
 
 Comparación entre HRP, IVP y Equal Weight.
 
-[`Ver gráfico`](results/hrp_weights.html)
-![Pesos](results/hrp_weights_screenshot.png)
+[`Ver gráfico`](Results/hrp_weights.html)
+![Pesos](Results/hrp_weights_screenshot.png)
 
 ---
 
 ### Equity Curve + Volatilidad
 
-[`Ver backtest`](results/hrp_backtest.html)
-![Backtest](results/hrp_backtest_screenshot.png)
+[`Ver backtest`](Results/hrp_backtest.html)
+![Backtest](Results/hrp_backtest_screenshot.png)
 
 ---
 
